@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Balym 👋
 
-<!--
-**balymm/balymm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Systems student (Machine Learning track)  
+🧠 Interested in Machine Learning, Deep Learning, Computer Vision & Cognitive Science  
+👩‍🏫 Teaching Assistant for **Programming Principles 2** (Python, Pygame)  
+🐱 Cat lover  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- I am studying **Information Systems** with a **Machine Learning track**
+- Currently a **Teaching Assistant** for *Programming Principles 2* (Python, Pygame)
+- I have taken courses in:
+  - Reinforcement Learning  
+  - Introduction to Machine Learning  
+- I am currently taking:
+  - Computer Vision  
+  - Deep Learning  
+  - Cognitive Science  
+- Interested in **AI, data, and applied machine learning systems**
+- I enjoy building things, learning new technologies, and improving my engineering skills
+
+---
+
+## 🛠 Tech Stack
+
+- **Languages:** Python, SQL  
+- **ML / DL:** PyTorch, TensorFlow, Scikit-learn  
+- **Data:** Pandas, NumPy, PowerBI, Excel  
+- **Tools:** Git, GitHub, Jupyter, Google Colab  
+- **Other:** Pygame, basic Web Development  
+
+---
+
+## 📌 Projects
+
+For now, most of my work consists of **university lab works** and **web development projects**.  
+I plan to gradually add my best works here as public repositories.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balymm&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balymm&layout=compact)
+
+---
+
+## 🔗 Links
+
+- 💼 LinkedIn: https://www.linkedin.com/in/balym-sekenova-b0887a284/  
+- 📸 Instagram: https://www.instagram.com/b.alymm  
+
+---
+
+⭐ Thanks for visiting my profile!
