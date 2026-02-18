@@ -40,14 +40,6 @@ I plan to gradually add my best works here as public repositories.
 
 ---
 
-## 📈 GitHub Stats
-
-![Balym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=balymm&show_icons=true&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balymm&layout=compact&langs_count=8)
-
----
-
 ## 🔗 Links
 
 - 💼 LinkedIn: https://www.linkedin.com/in/balym-sekenova-b0887a284/  
