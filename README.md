@@ -42,9 +42,9 @@ I plan to gradually add my best works here as public repositories.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balymm&show_icons=true&theme=default)
+![Balym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=balymm&show_icons=true&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balymm&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balymm&layout=compact&langs_count=8)
 
 ---
 
